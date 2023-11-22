@@ -1,3 +1,7 @@
+Carthage 의존성 대응 때문에 fork 해 사용중입니다.
+
+---
+
 Nantes 🥕
 ========
 [![CI Status](https://img.shields.io/travis/instacart/Nantes.svg?style=flat)](https://travis-ci.org/instacart/Nantes)
